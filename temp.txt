@@ -1,0 +1,2 @@
+this is a text file for homework 
+9 video git init and git add
